@@ -1,0 +1,29 @@
+{
+	"category": "Kernel",
+	"name": "KernelTickExt",
+	"inputs": 0,
+	"outputs": 0,
+	"parameters": [
+	
+	
+	
+		{
+			"name": "pinTick",
+			"type": "raw",
+			"default": "p20",
+			"options": [],
+			"value": "p20"
+		
+		}
+	],
+	"labels": {
+		"input": [],
+		"output": []
+	},
+	"schematic_pins": {
+		"inputs": [],
+		"outputs": []
+	},
+	"repository": "https://github.com/nBlocksStudioNodes/nblocks_kerneltickext",
+	"revision": ""
+}

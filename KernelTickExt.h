@@ -5,7 +5,7 @@
 
 class nBlock_KernelTickExt: public nBlockNode {
 public:
-    nBlock_KernelTickExt(float period);
+    nBlock_KernelTickExt(PinName ext_pin);
 private:
 
 };

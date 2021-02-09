@@ -10,9 +10,9 @@
 		{
 			"name": "pinTick",
 			"type": "raw",
-			"default": "p20",
+			"default": "p18",
 			"options": [],
-			"value": "p20"
+			"value": "p18"
 		
 		}
 	],
